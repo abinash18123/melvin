@@ -1,4 +1,4 @@
 int a
 int b
-
-cout<<a<<b
+int c
+cout<<a<<b<<c
